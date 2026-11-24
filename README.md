@@ -1,5 +1,7 @@
 This project has three browser automation scripts for the Sauce Demo shopping site.
 
+However, for Windows. I am not entirely sure if it works upon testing.
+
 ## Scripts
 
 - `01_open_browser.py` opens the login page in a Chromium Window.
